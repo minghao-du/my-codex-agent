@@ -41,6 +41,6 @@ Use the pdf-question-answerer agent to read Koenig2017.pdf and explain how they 
 
 ## Notes
 
-Agents that analyze PDFs still depend on [pdf-navigator-mcp](https://github.com/matsengrp/pdf-navigator-mcp).
+Agents that analyze PDFs depend on [pdf-reader-mcp](https://github.com/SylphxAI/pdf-reader-mcp).
 
 The original Claude-style Markdown agent files are kept in this repository as source material for the Codex TOML versions.
